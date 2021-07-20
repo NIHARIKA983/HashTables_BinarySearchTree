@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.datastructures.MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-20T12:03:35" hostname="NIHARIKA" time="0.088">
+  <properties/>
+  <testcase name="givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency" classname="com.datastructures.MyHashMapTest" time="0.088"/>
+  <system-out><![CDATA[MyHashMapNodes{ MyLinkedListNodes{ MyMapNode{ K=toV=2}->MyMapNode{ K=beV=2}->MyMapNode{ K=orV=1}->MyMapNode{ K=notV=1}}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
