@@ -6,3 +6,5 @@ com/datastructures/INode.java
  com.datastructures.INode
 com/datastructures/MyLinkedList.java
  com.datastructures.MyLinkedList
+com/datastructures/MyLinkedHashMap.java
+ com.datastructures.MyLinkedHashMap

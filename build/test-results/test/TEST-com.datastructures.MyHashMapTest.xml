@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.datastructures.MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-20T12:03:35" hostname="NIHARIKA" time="0.088">
+<testsuite name="com.datastructures.MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-20T12:29:00" hostname="NIHARIKA" time="0.07">
   <properties/>
-  <testcase name="givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency" classname="com.datastructures.MyHashMapTest" time="0.088"/>
-  <system-out><![CDATA[MyHashMapNodes{ MyLinkedListNodes{ MyMapNode{ K=toV=2}->MyMapNode{ K=beV=2}->MyMapNode{ K=orV=1}->MyMapNode{ K=notV=1}}}
+  <testcase name="givenASentence_WhenWordsAreAddedToList_ShouldReturnParanoidFrequency" classname="com.datastructures.MyHashMapTest" time="0.07"/>
+  <system-out><![CDATA[Key :paranoids hashcode :1955671415 index :5
+Key :paranoids hashcode :1955671415 index :5
+Key :are hashcode :96852 index :2
+Key :are hashcode :96852 index :2
+Key :not hashcode :109267 index :7
+Key :not hashcode :109267 index :7
+Key :paranoid hashcode :1171464828 index :8
+Key :paranoid hashcode :1171464828 index :8
+Key :because hashcode :232973818 index :8
+Key :because hashcode :232973818 index :8
+Key :they hashcode :3558952 index :2
+Key :they hashcode :3558952 index :2
+Key :are hashcode :96852 index :2
+Key :are hashcode :96852 index :2
+Key :paranoid hashcode :1171464828 index :8
+Key :paranoid hashcode :1171464828 index :8
+Key :but hashcode :97921 index :1
+Key :but hashcode :97921 index :1
+Key :because hashcode :232973818 index :8
+Key :because hashcode :232973818 index :8
+Key :they hashcode :3558952 index :2
+Key :they hashcode :3558952 index :2
+Key :keep hashcode :3287941 index :1
+Key :keep hashcode :3287941 index :1
+Key :putting hashcode :218503555 index :5
+Key :putting hashcode :218503555 index :5
+Key :themselves hashcode :955366950 index :0
+Key :themselves hashcode :955366950 index :0
+Key :deliberately hashcode :164270126 index :6
+Key :deliberately hashcode :164270126 index :6
+Key :into hashcode :3237472 index :2
+Key :into hashcode :3237472 index :2
+Key :paranoid hashcode :1171464828 index :8
+Key :paranoid hashcode :1171464828 index :8
+Key :avoidable hashcode :1201140657 index :7
+Key :avoidable hashcode :1201140657 index :7
+Key :situations hashcode :2020271669 index :9
+Key :situations hashcode :2020271669 index :9
+Key :paranoid hashcode :1171464828 index :8
+MyLinkedHashMap List{[ MyLinkedListNodes{ MyMapNode{ K=themselvesV=1}},  MyLinkedListNodes{ MyMapNode{ K=butV=1}->MyMapNode{ K=keepV=1}},  MyLinkedListNodes{ MyMapNode{ K=areV=2}->MyMapNode{ K=theyV=1}->MyMapNode{ K=theyV=1}->MyMapNode{ K=intoV=1}}, null, null,  MyLinkedListNodes{ MyMapNode{ K=paranoidsV=1}->MyMapNode{ K=puttingV=1}},  MyLinkedListNodes{ MyMapNode{ K=deliberatelyV=1}},  MyLinkedListNodes{ MyMapNode{ K=notV=1}->MyMapNode{ K=avoidableV=1}},  MyLinkedListNodes{ MyMapNode{ K=paranoidV=3}->MyMapNode{ K=becauseV=1}->MyMapNode{ K=becauseV=1}},  MyLinkedListNodes{ MyMapNode{ K=situationsV=1}}]}
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
