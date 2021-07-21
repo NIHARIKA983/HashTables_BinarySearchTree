@@ -1,2 +1,4 @@
 com/datastructures/MyHashMapTest.java
  com.datastructures.MyHashMapTest
+com/datastructures/MyBinaryTreeTest.java
+ com.datastructures.MyBinaryTreeTest

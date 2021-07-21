@@ -8,3 +8,7 @@ com/datastructures/MyLinkedList.java
  com.datastructures.MyLinkedList
 com/datastructures/MyLinkedHashMap.java
  com.datastructures.MyLinkedHashMap
+com/datastructures/MyBinaryNode.java
+ com.datastructures.MyBinaryNode
+com/datastructures/MyBinaryTree.java
+ com.datastructures.MyBinaryTree
