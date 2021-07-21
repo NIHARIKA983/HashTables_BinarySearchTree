@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.datastructures.MyBinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-21T12:11:51" hostname="NIHARIKA" time="0.017">
+<testsuite name="com.datastructures.MyBinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-21T12:34:08" hostname="NIHARIKA" time="0.019">
   <properties/>
-  <testcase name="givenNumbers_WhenAddedToBinaryTree_ShouldReturnCorrectSize" classname="com.datastructures.MyBinaryTreeTest" time="0.017"/>
+  <testcase name="givenNumbers_WhenAddedToBinaryTree_ShouldBeAbleTo_SearchGivenElement" classname="com.datastructures.MyBinaryTreeTest" time="0.019"/>
   <system-out><![CDATA[56 30 22 11 3 16 40 70 60 63 67 65 95 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -42,4 +42,17 @@ public class MyBinaryTree<K extends Comparable<K>> {
             preOrderTraversal(root.right);
         }
     }
+    //search element in binary tree
+    public MyBinaryNode searchTree(K key) {
+        return searchRecurvisely(this.root,key);
+    }
+    //search nodes recursively to find key
+    private MyBinaryNode searchRecurvisely(MyBinaryNode  root, K key) {
+        if(root == null) return null;
+        if(root.key == key) return root;
+        else if(key.compareTo((K) root.key) <0 )
+            return searchRecurvisely(root.left,key);
+        else
+            return searchRecurvisely(root.right,key);
+    }
 }
